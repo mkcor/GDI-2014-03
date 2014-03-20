@@ -26,5 +26,5 @@ def write_letter(filepath, results):
 	f.close()
 
 # Use the above two functions to create a letter promising lots of money 
-result = dearFriend('a','a',21,'c','c',45,'44')
-writeLetter('test.txt',result)
+result = dear_friend('a','a',21,'c','c',45,'44')
+write_letter('test.txt',result)
