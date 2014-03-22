@@ -1,3 +1,6 @@
+# Script returning whether you are allowed to drink alcohol or not, based on
+# age and place, to illustrate conditional statements
+
 age = raw_input('What is your age? ')
 age = int(age)
 place = raw_input('What is your place? (Capitalize) ')
